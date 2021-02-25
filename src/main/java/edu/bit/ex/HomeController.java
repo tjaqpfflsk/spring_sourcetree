@@ -11,7 +11,12 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
+
+//#4
+//#1
+//#3
 //#2 ¼öÁ¤
+
 @Controller
 public class HomeController {
 	
