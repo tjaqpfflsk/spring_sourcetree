@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //마스터
 =======
 //디벨랍
 >>>>>>> a44afdc (no message)
+=======
+
+//마스터
+//디벨랍
+
+>>>>>>> 71c7a9feebed45489f02f49e000b5c82ac820654
 package edu.bit.ex;
 
 import java.text.DateFormat;
