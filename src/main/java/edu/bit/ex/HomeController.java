@@ -1,18 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-//마스터
-=======
-//디벨랍
->>>>>>> a44afdc (no message)
-=======
 
-//마스터
-//디벨랍
-
->>>>>>> 71c7a9feebed45489f02f49e000b5c82ac820654
 package edu.bit.ex;
 
 import java.text.DateFormat;
+
 import java.util.Date;
 import java.util.Locale;
 
@@ -23,15 +13,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-//#7
-//#6
-//#2
-//#1
-//#5
-//#4
-//#1
-//#3
-//#2 수정
+
 
 @Controller
 public class HomeController {
