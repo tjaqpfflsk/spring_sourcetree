@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //디벨랍
+=======
+//마스터
+>>>>>>> 4e25ee4 (no message)
 package edu.bit.ex;
 
 import java.text.DateFormat;
